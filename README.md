@@ -8,3 +8,5 @@ trying to make a note taking app, may integrate .MD features??
 - Date, time and location tagged with note
 - Sync support (through Git maybe? with added version control?)
 - encription support?
+- scribble feature?
+-
